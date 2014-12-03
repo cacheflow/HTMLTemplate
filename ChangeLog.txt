@@ -1,0 +1,20 @@
+Version 1.1
+--------------------------------------------------------------
+May 13, 2014:
+- Minor HTML Corrections
+- Add Multi Page Layout
+- Added About Us Separate Page
+- Added Blog Listing Separate Page
+- Added Blog Post Separate Page
+- Flex Slider integration
+- Added Pricing Tables Section
+- Added Our Team Section
+- Embeding Responsive Audio [ SoundCloud ]
+- Added Preload Image
+
+
+
+Version 1.0
+--------------------------------------------------------------
+April 5, 2014:
+- Template release
